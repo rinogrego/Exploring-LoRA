@@ -10,4 +10,6 @@ Exploring LoRA's capabilities for deep learning models
 ## Things to Check
 - model's performance on the task
 - training time
+- LoRA's hyperparameter (alpha, r)
+
 
