@@ -1,5 +1,5 @@
 # LoRA for Deep Learning
-Exploring LoRA's capabilities for deep learning models
+Exploring LoRA's capabilities for training deep learning models
 
 ## Things to Explore
 - Convolutional Neural Network
@@ -11,5 +11,3 @@ Exploring LoRA's capabilities for deep learning models
 - model's performance on the task
 - training time
 - LoRA's hyperparameter (alpha, r)
-
-
